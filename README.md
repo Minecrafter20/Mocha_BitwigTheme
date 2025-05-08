@@ -2,7 +2,7 @@
 This is a bitwig theme based on [Catppucin Mocha](https://catppuccin.com/palette)
 
 # Installation 
-- Follow these steps: [Berikai](https://github.com/Berikai/bitwig-theme-editor.git)
+- Follow these steps: https://github.com/Berikai/bitwig-theme-editor.git
 - Download this archive: [`mocha.json`](mocha.json)
 
 # Captures
