@@ -1,11 +1,11 @@
 # Mocha
 This is a bitwig theme based on [Catppucin Mocha](https://catppuccin.com/palette)
 
-# Instalacion 
+# Installation 
 - Follow these steps: [Berikai](https://github.com/Berikai/bitwig-theme-editor.git)
 - Download this archive: [`mocha.json`](mocha.json)
 
-# Capturas
+# Captures
 Configuration of captures in Bitwig
 - Half tones: 0%
 - Black level: 85%
